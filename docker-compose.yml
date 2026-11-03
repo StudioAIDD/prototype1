@@ -1,0 +1,75 @@
+# Prototype 1 infrastructure: LiteLLM gateway + the two Postgres databases
+# it needs (its own metadata db, and the agent's conversation-memory db).
+#
+#   docker compose up
+#
+# Then run agent_framework_proto1 (dotnet run) and copilotkit_quickstart
+# (npm run runtime / npm run dev) per the README in this folder.
+
+services:
+  # OpenAI-compatible gateway in front of whichever model backend is
+  # configured. The .NET agent calls http://localhost:4000 with the
+  # master key.
+  litellm:
+    container_name: proto1_litellm
+    image: ghcr.io/berriai/litellm:latest
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./litellm_config.yaml:/app/config.yaml:ro
+      # ChatGPT subscription OAuth tokens (only needed if using the
+      # chatgpt/* model route). Must be read-write: the proxy rewrites
+      # this file in place when the access token refreshes.
+      - ${HOME}/.config/litellm/chatgpt:/tokens/chatgpt
+    environment:
+      LITELLM_MASTER_KEY: ${LITELLM_MASTER_KEY:-admin}
+      DATABASE_URL: postgresql://litellm:${POSTGRES_PASSWORD:-litellm}@db:5432/litellm
+      CHATGPT_TOKEN_DIR: /tokens/chatgpt
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+    command: ["--config", "/app/config.yaml", "--port", "4000"]
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # Postgres database for LiteLLM's own keys/spend logs.
+  db:
+    container_name: proto1_litellm_db
+    image: docker.io/library/postgres:16
+    environment:
+      POSTGRES_USER: litellm
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-litellm}
+      POSTGRES_DB: litellm
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U litellm"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - litellm_db_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  # Postgres database for the agent's conversation memory
+  # (PostgresAgentSessionStore), keyed by threadId. Exposed on the host
+  # since agent_framework_proto1 runs outside Docker.
+  agent_memory_db:
+    container_name: proto1_agent_memory_db
+    image: docker.io/library/postgres:16
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: agent_memory
+      POSTGRES_PASSWORD: ${AGENT_MEMORY_DB_PASSWORD:-agent_memory}
+      POSTGRES_DB: agent_memory
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U agent_memory"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - agent_memory_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  litellm_db_data:
+  agent_memory_data:

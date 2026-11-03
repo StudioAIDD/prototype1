@@ -1,0 +1,917 @@
+[
+  {
+    "heading": "Academic Policies",
+    "policies": [
+      {
+        "number": "ACA-001",
+        "title": "Class Coverage",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-001-class-coverage.html"
+      },
+      {
+        "number": "ACA-002",
+        "title": "Class Times and Locations",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-002-class-times-and-locations.html"
+      },
+      {
+        "number": "ACA-005",
+        "title": "Field Trips",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-005-field-trips.html"
+      },
+      {
+        "number": "ACA-006",
+        "title": "Weather Cancellations of Classes",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-006-weather-cancellations-of-classes.html"
+      },
+      {
+        "number": "ACA-007",
+        "title": "Course Numbering",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-007-course-numbering.html"
+      },
+      {
+        "number": "ACA-008",
+        "title": "Repeating Courses - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-008-repeating-courses-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-009",
+        "title": "Auditing Graduate Courses",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-009-auditing-graduate-courses.html"
+      },
+      {
+        "number": "ACA-010",
+        "title": "Auditing Undergraduate Courses",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-010-auditing-undergraduate-courses.html"
+      },
+      {
+        "number": "ACA-011",
+        "title": "Course Withdrawals",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-011-course-withdrawals.html"
+      },
+      {
+        "number": "ACA-012",
+        "title": "University Withdrawals",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-012-university-withdrawals.html"
+      },
+      {
+        "number": "ACA-013",
+        "title": "Pass/Fail Grading - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-013-pass-fail-grading-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-015",
+        "title": "Making Up Canceled Evening Classes",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-015-making-up-canceled-evening-classes.html"
+      },
+      {
+        "number": "ACA-016",
+        "title": "Class Attendance",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-016-class-attendance.html"
+      },
+      {
+        "number": "ACA-018",
+        "title": "Advanced Placement",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-018-advanced-placement.html"
+      },
+      {
+        "number": "ACA-019",
+        "title": "Transfer Credits",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-019-transfer-credits.html"
+      },
+      {
+        "number": "ACA-020",
+        "title": "Dean's List",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-020-deans-list.html"
+      },
+      {
+        "number": "ACA-021",
+        "title": "Minor Programs",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-021-minor-programs.html"
+      },
+      {
+        "number": "ACA-022",
+        "title": "Ten Year Rule",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-022-ten-year-rule.html"
+      },
+      {
+        "number": "ACA-025",
+        "title": "Final Assessments",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-025-final-assessments.html"
+      },
+      {
+        "number": "ACA-026",
+        "title": "Leave of Absence for Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-026-leave-of-absence-for-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-027",
+        "title": "Academic Honesty - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-027-academic-honesty-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-029",
+        "title": "Change of Academic Program or Academic Advisor",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-029-change-of-academic-program-or-academic-advisor.html"
+      },
+      {
+        "number": "ACA-030",
+        "title": "B. S. in Education without Certification",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-030-b-s-in-education-without-certification.html"
+      },
+      {
+        "number": "ACA-033",
+        "title": "Visiting Student Program - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-033-visiting-student-program-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-034",
+        "title": "Individualized Instruction",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-034-individualized-instruction.html"
+      },
+      {
+        "number": "ACA-035",
+        "title": "College Level Examination Program",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-035-college-level-examination-program.html"
+      },
+      {
+        "number": "ACA-036",
+        "title": "Course Guides",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-036-course-guides.html"
+      },
+      {
+        "number": "ACA-038",
+        "title": "Graduate Course Repeats, Grades and CGPA",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-038-graduate-course-repeats-grades-and-cgpa.html"
+      },
+      {
+        "number": "ACA-039",
+        "title": "Faculty-led Study Abroad Programs",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-039-faculty-led-study-abroad-programs.html"
+      },
+      {
+        "number": "ACA-042",
+        "title": "Academic Warning, Probation, and Dismissal of Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-042-academic-warning-probation-and-dismissal-of-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-043",
+        "title": "Classification of Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-043-classification-of-students.html"
+      },
+      {
+        "number": "ACA-044",
+        "title": "College Level Boards",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-044-college-level-boards.html"
+      },
+      {
+        "number": "ACA-045",
+        "title": "Criminal Record Check of Students in Teaching and School Counseling",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-045-criminal-record-check-of-students-in-teaching-and-school-counseling.html"
+      },
+      {
+        "number": "ACA-046",
+        "title": "Curriculum Routing Procedures",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-046-curriculum-routing-procedures.html"
+      },
+      {
+        "number": "ACA-047",
+        "title": "Grade Appeal",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-047-grade-appeal.html"
+      },
+      {
+        "number": "ACA-048",
+        "title": "Course Grading - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-048-course-grading-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-049",
+        "title": "Graduate Faculty",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-049-graduate-faculty.html"
+      },
+      {
+        "number": "ACA-050",
+        "title": "Graduation with Honors",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-050-graduation-with-honors.html"
+      },
+      {
+        "number": "ACA-051",
+        "title": "Independent Study",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-051-independent-study.html"
+      },
+      {
+        "number": "ACA-052",
+        "title": "Permission to Study at Another College or University",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-052-permission-to-study-at-another-college-or-university.html"
+      },
+      {
+        "number": "ACA-055",
+        "title": "Undergraduate Academic Forgiveness",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-055-undergraduate-academic-forgiveness.html"
+      },
+      {
+        "number": "ACA-057",
+        "title": "GPA Calculations and Transfer Grades",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-057-gpa-calculations-and-transfer-grades.html"
+      },
+      {
+        "number": "ACA-061",
+        "title": "Granting Posthumous Degrees/Diplomas/Certificates",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-061-granting-posthumous-degrees-diplomas-certificates.html"
+      },
+      {
+        "number": "ACA-070",
+        "title": "Declaring a Major",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-070-declaring-a-major.html"
+      },
+      {
+        "number": "ACA-071",
+        "title": "Multiple Majors/Degrees - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-071-multiple-majors-degrees-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-072",
+        "title": "Simultaneous Degrees - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-072-simultaneous-degrees-graduate-students.html"
+      },
+      {
+        "number": "ACA-073",
+        "title": "Second Degree - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-073-second-degree-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-074",
+        "title": "Second Degree - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-074-second-degree-graduate-students.html"
+      },
+      {
+        "number": "ACA-075",
+        "title": "Graduate Transfer Credit",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-075-graduate-transfer-credit.html"
+      },
+      {
+        "number": "ACA-076",
+        "title": "Graduation Requirements - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-076-graduation-requirements-graduate-students.html"
+      },
+      {
+        "number": "ACA-077",
+        "title": "Graduation Requirements - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-077-graduation-requirements-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-078",
+        "title": "Residency Requirements - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-078-residency-requirements-graduate-students.html"
+      },
+      {
+        "number": "ACA-079",
+        "title": "Residency Requirements - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-079-residency-requirements-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-080",
+        "title": "Final Examination Conflict - Undergraduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-080-final-examination-conflict-undergraduate-students.html"
+      },
+      {
+        "number": "ACA-082",
+        "title": "Veteran and Active Duty Military - Course Scheduling",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-082-veteran-and-active-duty-military-course-scheduling.html"
+      },
+      {
+        "number": "ACA-083",
+        "title": "Visiting Student Program - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-083-\u200b\u200b\u200b\u200bvisiting-student-program-graduate-students\u200b.html"
+      },
+      {
+        "number": "ACA-084",
+        "title": "University Diplomas",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-084-university-diplomas.html"
+      },
+      {
+        "number": "ACA-085",
+        "title": "Academic Probation and Dismissal of Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-085-academic-probation-and-dismissal-of-graduate-students.html"
+      },
+      {
+        "number": "ACA-086",
+        "title": "Commencement Ceremony Regalia",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-086-commencement-ceremony-regalia.html"
+      },
+      {
+        "number": "ACA-087",
+        "title": "Academic Honesty - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-087-academichonesty-graduate-students.html"
+      },
+      {
+        "number": "ACA-088",
+        "title": "Pass/Faily Grading - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-088-pass-fail-grading-graduate-students.html"
+      },
+      {
+        "number": "ACA-089",
+        "title": "Time Limitations - Graduate Degree Completion",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-089-time-limitations-graduate-degree-completion\u200b.html"
+      },
+      {
+        "number": "ACA-090",
+        "title": "Attendance Compliance for Reporting to Federal Government",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-090-attendance-compliance-for-reporting-to-federal-government.html"
+      },
+      {
+        "number": "ACA-091",
+        "title": "Course Grading - Graduate Students",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-091-course-grading-graduate-students.html"
+      },
+      {
+        "number": "ACA-092",
+        "title": "Automatic Archiving of Courses",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-092-automatic-archiving-of-courses.html"
+      },
+      {
+        "number": "ACA-093",
+        "title": "Graduate Assistantship Termination and Reassignment",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-093-graduate-assistantship-termination-and-reassignment.html"
+      },
+      {
+        "number": "ACA-094",
+        "title": "Professional Licensure Disclosure",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-094-professional-licensure-disclosure.html"
+      },
+      {
+        "number": "ACA-095",
+        "title": "Incomplete Grades",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-095-incomplete-grades.html"
+      },
+      {
+        "number": "ACA-096",
+        "title": "Undergraduate Enrollment in Graduate-Level Courses",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-096-undergraduate-enrollment-in-graduate-level-courses.html"
+      },
+      {
+        "number": "ACA-097",
+        "title": "Certificates and Stackable Certificates",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/aca-097-certificates-and-stackable-certificates.html"
+      }
+    ]
+  },
+  {
+    "heading": "Campus Safety Policies",
+    "policies": [
+      {
+        "number": "SAF-001",
+        "title": "Compressed Gas Cylinders",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-001-compressed-gas-cylinders.html"
+      },
+      {
+        "number": "SAF-002",
+        "title": "Emergency Evacuation and Fire Drills on Non-Residence Buildings",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-002-emergency-evacuation-and-fire-drills-on-non-residence-buildings.html"
+      },
+      {
+        "number": "SAF-003",
+        "title": "Hazardous Waste Management And Disposal",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-003-hazardous-waste-management-and-disposal.html"
+      },
+      {
+        "number": "SAF-004",
+        "title": "Infectious Waste Management and Disposal",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-004-infectious-waste-management-and-disposal.html"
+      },
+      {
+        "number": "SAF-005",
+        "title": "Fireworks, Open Fires and Charcoal Grills",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-005-fireworks-open-fires-and-charcoal-grills.html"
+      },
+      {
+        "number": "SAF-006",
+        "title": "Stairway and Corridor Fire Safety",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-006-stairway-and-corridor-fire-safety.html"
+      },
+      {
+        "number": "SAF-007",
+        "title": "Open Flame Devices in University Buildings",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-007-open-flame-devices-in-university-buildings.html"
+      },
+      {
+        "number": "SAF-008",
+        "title": "Missing Student Notification",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/saf-008-missing-student-notification.html"
+      }
+    ]
+  },
+  {
+    "heading": "Equity and Compliance Policies",
+    "policies": [
+      {
+        "number": "EC-001",
+        "title": "Accessible Meetings, Events, Programs",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-001-accessible-meetings-events-programs.html"
+      },
+      {
+        "number": "EC-002",
+        "title": "Reasonable Accommodations for Employees",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-002-reasonable-accommodations-for-employees.html"
+      },
+      {
+        "number": "EC-003",
+        "title": "Animals on Campus",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-003-animals-on-campus.html"
+      },
+      {
+        "number": "EC-004",
+        "title": "Accommodations and Services for Students with Disabilities",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-004-accommodations-and-services-for-students-with-disabilities.html"
+      },
+      {
+        "number": "EC-005",
+        "title": "Mandatory Reporting of Child Abuse",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-005-mandatory-reporting-of-child-abuse.html"
+      },
+      {
+        "number": "EC-006",
+        "title": "Protection-Supervision of Minors",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-006-protection-supervision-of-minors.html"
+      },
+      {
+        "number": "EC-007",
+        "title": "Sexual Misconduct",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-007-sexual-misconduct.html"
+      },
+      {
+        "number": "EC-008",
+        "title": "Non-Discrimination and Anti-Bullying",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-008-non-discrimination-and-anti-bullying.html"
+      },
+      {
+        "number": "EC-009",
+        "title": "Anti-Harrassment",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-009-anti-harassment.html"
+      },
+      {
+        "number": "EC-010",
+        "title": "Title IX Exemptions",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-010-title-ix-exemptions.html"
+      },
+      {
+        "number": "EC-011",
+        "title": "Amorous and Familial Relationships",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-011-amorous-and-familial-relationships.html"
+      },
+      {
+        "number": "EC-012",
+        "title": "Pregnancy and Parenting Status",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-012-pregnancy-and-parenting-status.html"
+      },
+      {
+        "number": "EC-013",
+        "title": "Human Subjects Research",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-013-human-subjects-research.html"
+      },
+      {
+        "number": "EC-014",
+        "title": "Confidentiality of Student Records",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-014-confidentiality-of-student-records.html"
+      },
+      {
+        "number": "EC-015",
+        "title": "Clery Act Compliance",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/ec-015-clery-act-compliance.html"
+      }
+    ]
+  },
+  {
+    "heading": "Facilities and Properties Policies",
+    "policies": [
+      {
+        "number": "FP-001",
+        "title": "Key and Lock",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-001-key-and-lock.html"
+      },
+      {
+        "number": "FP-002",
+        "title": "Kutztown University ID Card",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-002-kutztown-university-id-card.html"
+      },
+      {
+        "number": "FP-003",
+        "title": "Procurement of Goods, Services, Supplies and Construction",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-003-procurement-of-goods-services-supplies-and-construction.html"
+      },
+      {
+        "number": "FP-004",
+        "title": "Use of University Vehicles",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-004-use-of-university-vehicles.html"
+      },
+      {
+        "number": "FP-005",
+        "title": "Facility Naming",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-005-facility-naming.html"
+      },
+      {
+        "number": "FP-006",
+        "title": "Drones, Unmanned Aircraft Systems, or Unmanned Aircraft Vehicles",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-006-drones-unmanned-aircraft-systems-or-unmanned-aircraft-vehicles.html"
+      },
+      {
+        "number": "FP-008",
+        "title": "Fall Sports Camps",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-008-fall-sports-camps.html"
+      },
+      {
+        "number": "FP-009",
+        "title": "Gates and Barriers",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-009-gates-and-barriers.html"
+      },
+      {
+        "number": "FP-010",
+        "title": "Motor Vehicle Regulations",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-010-motor-vehicle-regulations.html"
+      },
+      {
+        "number": "FP-011",
+        "title": "Personal Protective Services",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-011-personal-protective-services.html"
+      },
+      {
+        "number": "FP-012",
+        "title": "PRIDE Program (Promoting Responsibility In Damage Elimination)",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-012-pride-program-(promoting-responsibility-in-damage-elimination).html"
+      },
+      {
+        "number": "FP-013",
+        "title": "Residence Hall Student Damage Billing",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-013-residence-hall-student-damage-billing.html"
+      },
+      {
+        "number": "FP-014",
+        "title": "Special Parking Permits",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-014-special-parking-permits.html"
+      },
+      {
+        "number": "FP-015",
+        "title": "Use of Multi-Purpose Facilities",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-015-use-of-multi-purpose-facilities.html"
+      },
+      {
+        "number": "FP-016",
+        "title": "Visiting Bus Plans (Discharging/Parking/Pick-Up)",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-016-visiting-bus-plans-(discharging-parking-pick-up).html"
+      },
+      {
+        "number": "FP-017",
+        "title": "Winter/Spring Break Housing for Athletes",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fp-017-winter-spring-break-housing-for-athletes.html"
+      }
+    ]
+  },
+  {
+    "heading": "Finance Policies",
+    "policies": [
+      {
+        "number": "FIN-001",
+        "title": "Office of Conference Services",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-001-office-of-conference-services.html"
+      },
+      {
+        "number": "FIN-002",
+        "title": "Budget Transfer",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-002-budget-transfer.html"
+      },
+      {
+        "number": "FIN-003",
+        "title": "Collection of Funds",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-003-collection-of-funds.html"
+      },
+      {
+        "number": "FIN-004",
+        "title": "Membership",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-004-membership.html"
+      },
+      {
+        "number": "FIN-005",
+        "title": "Refund of Tuition and Fees",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-005-refund-of-tuition-and-fees.html"
+      },
+      {
+        "number": "FIN-006",
+        "title": "Sealing Student Records",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-006-sealing-student-records.html"
+      },
+      {
+        "number": "FIN-007",
+        "title": "Travel Expense Regulations",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-007-travel-expense-regulations.html"
+      },
+      {
+        "number": "FIN-009",
+        "title": "Tuition Waiver for Non-Instructional Personnel Taking Professional Development Work at Kutztown University",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-009-tuition-waiver-for-non-instructional-personnel-taking-professional-development-work-at-kutztown-university.html"
+      },
+      {
+        "number": "FIN-010",
+        "title": "University Asset Responsibility",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-010-university-asset-responsibility.html"
+      },
+      {
+        "number": "FIN-011",
+        "title": "Records Retention",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-011-records-retention.html"
+      },
+      {
+        "number": "FIN-012",
+        "title": "Housing Fees - Charges & Refunds",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-012-housing-fees-charges-and-refunds.html"
+      },
+      {
+        "number": "FIN-013",
+        "title": "Presidential Authority to Waive Locally Established Fees",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-013-presidential-authority-to-waive-locally-established-fees.html"
+      },
+      {
+        "number": "FIN-014",
+        "title": "Miscellaneous Fee Authority Delegation",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-014-miscellaneous-fee-authority-delegation.html"
+      },
+      {
+        "number": "FIN-015",
+        "title": "Tuition Waiver for Retired Persons",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-015-tuition-waiver-for-retired-persons.html"
+      },
+      {
+        "number": "FIN-016",
+        "title": "Sponsored Project Payroll Certification",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/fin-016-sponsored-project-payroll-certification.html"
+      }
+    ]
+  },
+  {
+    "heading": "General Policies",
+    "policies": [
+      {
+        "number": "GEN-001",
+        "title": "Campus Smoking",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-001-campus-smoking.html"
+      },
+      {
+        "number": "GEN-002",
+        "title": "Non-Sponsored Demonstrations, Presentations, and Non-Commercial Literature Distribution",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-002-non-sponsored-demonstrations-presentations-and-non-commercial-literature-distribution.html"
+      },
+      {
+        "number": "GEN-003",
+        "title": "Weather-Related Schedules",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-003-weather-related-schedules.html"
+      },
+      {
+        "number": "GEN-004",
+        "title": "Posting and Chalking Guidelines",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-004-posting-and-chalking-guidelines.html"
+      },
+      {
+        "number": "GEN-005",
+        "title": "Wheeled Devices",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-005-wheeled-devices.html"
+      },
+      {
+        "number": "GEN-006",
+        "title": "Audio and Video Recording",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-006-audio-and-video-recording.html"
+      },
+      {
+        "number": "GEN-007",
+        "title": "Third-Party Providers",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-007-third-party-providers.html"
+      },
+      {
+        "number": "GEN-008",
+        "title": "Issuance of No Trespass Orders to Non-Affiliated Individuals",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-008-issuance-of-no-trespass-orders-to-non-affiliated-individuals.html"
+      },
+      {
+        "number": "GEN-009",
+        "title": "Medical Marijuana",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/gen-009-medical-marijuana.html"
+      }
+    ]
+  },
+  {
+    "heading": "Human Resources Policies",
+    "policies": [
+      {
+        "number": "HR-001",
+        "title": "Sabbatical Leave for Faculty",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-001-sabbatical-leave-for-faculty.html"
+      },
+      {
+        "number": "HR-002",
+        "title": "Promotion for Faculty",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-002-promotion-for-faculty.html"
+      },
+      {
+        "number": "HR-003",
+        "title": "Tenure for Faculty",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-003-tenure-for-faculty.html"
+      },
+      {
+        "number": "HR-005",
+        "title": "Responding to Allegations of Research Misconduct",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-005-responding-to-allegations-of-research-misconduct.html"
+      },
+      {
+        "number": "HR-006",
+        "title": "Conflict of Interest",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-006-conflict-of-interest.html"
+      },
+      {
+        "number": "HR-007",
+        "title": "Health and Wellness Center Services to Employees",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-007-health-and-wellness-center-services-to-employees.html"
+      },
+      {
+        "number": "HR-008",
+        "title": "Off-Campus Involvement by University Personnel",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-008-off-campus-involvement-by-university-personnel.html"
+      },
+      {
+        "number": "HR-009",
+        "title": "Right to Know",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-009-right-to-know.html"
+      },
+      {
+        "number": "HR-010",
+        "title": "Criminal Background Investigations",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-010-criminal-background-investigations.html"
+      },
+      {
+        "number": "HR-011",
+        "title": "Employee Recognition",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-011-employee-recognition.html"
+      },
+      {
+        "number": "HR-012",
+        "title": "Possession of Deadly or Offensive Weapons on Kutztown University Campus",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-012-possession-of-deadly-or-offensive-weapons-on-kutztown-university-campus.html"
+      },
+      {
+        "number": "HR-013",
+        "title": "Employee Preferred Name",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-013-employee-preferred-name.html"
+      },
+      {
+        "number": "HR-014",
+        "title": "Firearms for Public Safety & Police Services Officers",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-014-firearms-for-public-safety-and-police-services-officers.html"
+      },
+      {
+        "number": "HR-015",
+        "title": "Selection Process of Student Trustee",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-015-selection-process-of-student-trustee.html"
+      },
+      {
+        "number": "HR-016",
+        "title": "Retirement Recognition",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-016-retirement-recognition.html"
+      },
+      {
+        "number": "HR-017",
+        "title": "Trustee Emeritus",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-017-trustee-emeritus.html"
+      },
+      {
+        "number": "HR-018",
+        "title": "Hybrid/Remote Work for Non-Faculty Employees",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-018-hybrid-remote-work-for-non-faculty-employees.html"
+      },
+      {
+        "number": "HR-019",
+        "title": "Moving Expenses Regulations",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/hr-019-moving-expenses-regulations.html"
+      }
+    ]
+  },
+  {
+    "heading": "Student Policies",
+    "policies": [
+      {
+        "number": "STU-001",
+        "title": "Alcohol",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-001-alcohol.html"
+      },
+      {
+        "number": "STU-004",
+        "title": "Graduate Admissions",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-004-graduate-admissions.html"
+      },
+      {
+        "number": "STU-006",
+        "title": "Meal Plan Exemptions",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-006-meal-plan-exemptions.html"
+      },
+      {
+        "number": "STU-002",
+        "title": "Financial Aid Services",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-002-financial-aid-services.html"
+      },
+      {
+        "number": "STU-003",
+        "title": "Admissions Guidelines",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-003-admissions-guidelines.html"
+      },
+      {
+        "number": "STU-007",
+        "title": "Crisis Management for Health-Related Issues",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-007-crisis-management-for-health-related-issues.html"
+      },
+      {
+        "number": "STU-008",
+        "title": "Eligibility for University Counseling Services",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-008-eligibility-for-university-counseling-services.html"
+      },
+      {
+        "number": "STU-009",
+        "title": "Evaluation and Management of Students with Psychological Emergencies",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-009-evaluation-and-management-of-students-with-psychological-emergencies.html"
+      },
+      {
+        "number": "STU-014",
+        "title": "Housing Applications Process",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-014-housing-applications-process.html"
+      },
+      {
+        "number": "STU-031",
+        "title": "On-Campus Sales and Fundraising (UNDER REVIEW)",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-031-on-campus-sales-and-fundraising.html"
+      },
+      {
+        "number": "STU-032",
+        "title": "Good Samaritan for Alcohol & Other Drug Incidents",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-032-good-samaritan-for-alcohol-and-other-drug-incidents.html"
+      },
+      {
+        "number": "STU-035",
+        "title": "Admissions Review Process for Applicants with Prior Felony Convictions and/or Disciplinary Separations",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-035-admissions-review-process-for-applicants-with-prior-felony-convictions-and-or-disciplinary-separations.html"
+      },
+      {
+        "number": "STU-036",
+        "title": "Student Preferred Name",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-036-student-preferred-name.html"
+      },
+      {
+        "number": "STU-037",
+        "title": "Housing Review Process for Applicants with Prior Criminal Convictions and/or Disciplinary Separations",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-037-housing-review-process-for-applicants-with-prior-criminal-convictions-and-or-disciplinary-separations.html"
+      },
+      {
+        "number": "STU-038",
+        "title": "Admission Guidelines for Undergraduate International Students\u200b",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/stu-038-admission-guidelines-for-undergraduate-international-students.html"
+      }
+    ]
+  },
+  {
+    "heading": "Technology Policies",
+    "policies": [
+      {
+        "number": "TEC-001",
+        "title": "Acceptable Use of Information Technology Resources",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-001-acceptable-use-of-information-technology-resources.html"
+      },
+      {
+        "number": "TEC-002",
+        "title": "Identity Theft Prevention",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-002-identity-theft-prevention.html"
+      },
+      {
+        "number": "TEC-003",
+        "title": "Artificial Intelligence Acceptable Use",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-003-artificial-intelligence-acceptable-use.html"
+      },
+      {
+        "number": "TEC-004",
+        "title": "Cybersecurity Awareness",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-004-cybersecurity-awareness.html"
+      },
+      {
+        "number": "TEC-005",
+        "title": "Data Classification",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-005-data-classification.html"
+      },
+      {
+        "number": "TEC-006",
+        "title": "Digital Accessibility",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-006-digital-accessibility.html"
+      },
+      {
+        "number": "TEC-007",
+        "title": "Retired Employee Account",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-007-retired-employee-account.html"
+      },
+      {
+        "number": "TEC-008",
+        "title": "Standard Academic Technology Platforms",
+        "url": "https://www.kutztown.edu/about-ku/administration/governance/policy-register/tec-008-standard-academic-technology-platforms.html"
+      }
+    ]
+  }
+]

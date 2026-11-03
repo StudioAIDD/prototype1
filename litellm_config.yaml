@@ -1,0 +1,15 @@
+# LiteLLM proxy config for prototype1. Routes model requests from the
+# .NET agent (agent_framework_proto1) to whichever backend is configured.
+model_list:
+  - model_name: "anthropic/*"
+    litellm_params:
+      model: "anthropic/*"
+  - model_name: chatgpt/gpt-6.1-sol
+    model_info:
+      mode: responses
+    litellm_params:
+      model: chatgpt/gpt-6.1-sol
+
+general_settings:
+  master_key: os.environ/LITELLM_MASTER_KEY
+  store_prompts_in_spend_logs: true
